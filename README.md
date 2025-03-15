@@ -32,3 +32,5 @@ Weekly group meeting with additional direct communication as needed
 
 Choose a method for assigning and reporting on specific task items.
 Team members each chose a specific element to produce. Each team member will be assigned a specific area of development(level design, player, etc.).
+
+Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski)
