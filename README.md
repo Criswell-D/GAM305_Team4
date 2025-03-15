@@ -1,1 +1,1 @@
-# GAM305_Team4
+Project Log Assignments
