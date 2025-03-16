@@ -7,7 +7,7 @@ Additional Elements:
 1. Enemies Stationary (Ian)
 2. Moving Obstacles (Korbin)
 3. Equiptment Pickups (Devin)
-4. Enemy Boss ()
+4. Enemy Boss (Alec)
 
 Brainstorm on content based on the preferred scenario in the design document.
 Castle/Fantsy themed, fire traps, swords, armor, 
@@ -33,4 +33,4 @@ Weekly group meeting with additional direct communication as needed
 Choose a method for assigning and reporting on specific task items.
 Team members each chose a specific element to produce. Each team member will be assigned a specific area of development(level design, player, etc.).
 
-Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski)
+Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
