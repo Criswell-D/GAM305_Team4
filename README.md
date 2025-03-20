@@ -1,6 +1,6 @@
 Project Log Assignments
 
-Module Two Team Project Plan:
+*Module Two Team Project Plan:
 Choose a scenario and select the four additional elements you will include.
 Scenario: Top Down 
 Additional Elements:
@@ -34,3 +34,20 @@ Choose a method for assigning and reporting on specific task items.
 Team members each chose a specific element to produce. Each team member will be assigned a specific area of development(level design, player, etc.).
 
 Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
+
+*Module Three Project Log - Team Development: QA and Testing Plan:
+How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
+  Play Test: 
+  Demo: 
+  Code Release: 
+
+What items will be tested? Include a checklist of items to be tested (pass/fail).
+
+How will you update the test plan to reflect changes to the game and design document?
+
+How will bugs be reported?
+
+How will the bugs and their changes be tracked over time?
+
+Contributors()
+
