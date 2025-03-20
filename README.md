@@ -39,7 +39,9 @@ Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 
 How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
   Play Test: 
+  
   Demo: 
+  
   Code Release: 
 
 What items will be tested? Include a checklist of items to be tested (pass/fail).
