@@ -36,6 +36,7 @@ Team members each chose a specific element to produce. Each team member will be 
 Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 
 *Module Three Project Log - Team Development: QA and Testing Plan:
+
 How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
   Play Test: 
   Demo: 
