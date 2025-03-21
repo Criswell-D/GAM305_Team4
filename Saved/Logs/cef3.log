@@ -1,3 +1,2 @@
-[0318/113543.555:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0318/125622.600:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0318/125622.600:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0321/114204.780:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0321/114403.635:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
