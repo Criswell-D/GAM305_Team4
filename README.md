@@ -38,20 +38,32 @@ Contributors( Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 *Module Three Project Log - Team Development: QA and Testing Plan:
 
 How will you test objects, levels, and games during the development cycle? Develop a schedule and include:
+Components will undergo basic testing after completion to not slow down development. We will implement more rigorous testing after components are added to the level. We have developed a testing plan to track features, bugs, and updates/resolutions.
 
-  Play Test: 
+  Play Test: By the end of week 4 we will begin playtesting and reporting bugs.
   
-  Demo: 
+  Demo: Week five we will fix issues found during testing to further refine gameplay for the demo.
   
-  Code Release: 
+  Code Release: Week 7 the project will be finalized and ready for release.
 
 What items will be tested? Include a checklist of items to be tested (pass/fail).
+•	Game controls
+•	Health/Armor system
+•	Damage system
+•	Enemies
+•	Traps
+•	Boss
+•	Player HUD
+•	Game Over system
 
 How will you update the test plan to reflect changes to the game and design document?
+There is a section in our test plan to describe what changes, if any, were made. If the component failed or was unable to be completed the reason would be put in this section
 
 How will bugs be reported?
+Bugs will be tracked in our test plan. Each feature will have a spot to report bugs.
 
 How will the bugs and their changes be tracked over time?
+In the test plan there is a section to track bugs. After the bugs section there is an additional section for runtime errors to also be tracked. At the end there is a section to describe what updates or error resolutions were made.
 
-Contributors()
+Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 
