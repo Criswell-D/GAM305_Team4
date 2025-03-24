@@ -65,5 +65,7 @@ Bugs will be tracked in our test plan. Each feature will have a spot to report b
 How will the bugs and their changes be tracked over time?
 In the test plan there is a section to track bugs. After the bugs section there is an additional section for runtime errors to also be tracked. At the end there is a section to describe what updates or error resolutions were made.
 
+Test plan located at: https://docs.google.com/spreadsheets/d/1X5yFl5AVGJmIrdML5uRHJf_Gqmv4USu6N9F2rlrVKpc/edit?usp=sharing
+
 Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 
