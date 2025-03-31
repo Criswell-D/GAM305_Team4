@@ -69,3 +69,24 @@ Test plan located at: https://docs.google.com/spreadsheets/d/1X5yFl5AVGJmIrdML5u
 
 Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 
+*Module Four Project Log - Team Reflection
+
+What parts of the testing process did the team perceive to go well?
+During testing we tracked our bugs and discussed them within the group. This was helpful because we could share ideas and possibly helpful links to material that could help us solve our issues. We each tested our own parts as we developed to reduce the amount of bugs present when it came time to test the alpha.
+
+How were bugs identified and corrected?
+During testing bugs were identified and tracked in the group test plan. If issues or errors were encountered we made notes of the issues and discussed them with the group for feedback and solutions.
+
+In terms of the QA and testing process, what would you do differently to improve the process?
+If possible we would increase the amount of time for testing. Given more time we would have been able to have less issues present in our alpha. Meeting more often would also have been more helpful going into and during the testing phase.
+
+What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+Discord did help with communication. Having all members in a group with the ability to look back through the messages and ability to send links easily made communication easier. We also liked using UE5 for developing the project. UE5 has a lot of helpful resources that make developing simple. It is also easy to find material to help solve issues we encounter because of the vast community using UE5. Google Sheets was helpful with tracking bugs during testing.
+
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+GitHub was ticky because some of the group had less exprience with it or had never used it with a group. Working remotely has its own challenges as well with communication being infrequent at times.
+
+How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+During the initial analysis we came to our decision based on the requirements provided for the project. We used UE5.4 instead of the current version because the majority of members had that version installed already. Google Sheets was used for tracking the test plan because it was something we could easily share and the design of the document was based on a spreadsheet used in a previous class. Discord was an easy method for us all to connect and communicate in one spot.
+
+Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
