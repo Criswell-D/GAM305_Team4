@@ -94,21 +94,21 @@ Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 *Module Five Project Log - Team Reflection
 
 What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
-
+We were able to get progress made on a lot of the core functions. We were missing some parts that we wanted in the last testing phase, but have been able to implement a few this week. We had some merging issues causing some features to be missing, but have mostly cleared those.
 
 What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
-
+External time pressures continue to be an issue that the team is working through. We are making progress, but are a bit behind the planned schedule at this time. We also had to change the control scheme for the character because we ran into issues navigating around the map. We originally had click to move enabled, following many ARPG style games, but the high walls that we used for our level design interfered with clicking on the ground. Thusly, we have switched to WASD movement.
 
 How were the previous evaluations integrated into this latest stage?
-
+Members were able to assist with some of the Git issues that we were having last week. This allowed everyone to more easily contribute their sections of the project and get the team closer to putting the whole project together.
 
 What would you do differently to improve the collaboration or development process?
-
+Remote team work definitely has its set of challenges. Most of our Git issues have been solved, but some stray files manage to escape the gitignore and cause merging issues occasionally. More set meeting times could also improve the project speed.
 
 Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-
+We are not using any extra external tools. We did explore the option of using a 2d sprite asset pack, but we have determined that it might be more work than it would save trying to implement it into the project instead of using rough shapes as placeholders for enemies and traps. It would have required us to change the camera perspective as well as modify all the existing hitboxes and interactions to fit that new perspective.
 
 Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
-
+As of right now we estimate that 60% of the project features are completed. We would have liked for a bit more to have been completed at this point, but we should have everything ready for the final release.
 
 Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
