@@ -90,3 +90,25 @@ How did the team approach to the initial analysis of the game design document co
 During the initial analysis we came to our decision based on the requirements provided for the project. We used UE5.4 instead of the current version because the majority of members had that version installed already. Google Sheets was used for tracking the test plan because it was something we could easily share and the design of the document was based on a spreadsheet used in a previous class. Discord was an easy method for us all to connect and communicate in one spot.
 
 Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
+
+*Module Five Project Log - Team Reflection
+
+What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+
+
+What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+
+
+How were the previous evaluations integrated into this latest stage?
+
+
+What would you do differently to improve the collaboration or development process?
+
+
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+
+
+Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+
+
+Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
