@@ -117,17 +117,22 @@ Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
 
 What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
 
+Bug detection and error corrections were improved. We were able to locate and correct errors more effectively. All components were completed on time so the level could be laid out and gameplay could be properly tested. 
 
 What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 
+Communication was infrequent which led to some confusion about work progress. Some components were thought to be complete but after testing bugs were found that needed corrected. Some concepts needed to be adjusted because the initial design could not be completed in time.
 
 How were the previous evaluations integrated into this latest stage?
 
+Testing was completed earlier to eliminate rushing at the end of the week. Issues with communication were taken into account and communication was attempted to happen earlier in the week and more often. Expectations for the week were set at the beginning and clearly defined for team members.
 
 What would you do differently to improve the collaboration or development process?
 
+To improve collaboration, we would separate into groups to allow members to work together instead of having each individual assigned a specific task. Each group of the team could work together on their assigned areas, allowing ideas to be shared and developed more easily. Having better communication during the design phase would also help eliminate confusion later in the design process.
 
 Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
 
+Some team members had difficulty using Git at first. This led to some trouble but towards the end the issues were figured out. The bug tracking sheet that was created for the team was not utilized as effectively as it could have been. Members either didn’t use it or did not keep it updated. Discord was used for communication, but communication could have been better throughout the project.
 
 Contributors(Devin Criswell, Korbin Minton, Ian Leszczynski, Alec Midgley)
