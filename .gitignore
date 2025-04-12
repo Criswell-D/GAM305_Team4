@@ -99,3 +99,9 @@ Config/*.ini
 *.ufont
 *.upk
 *.udk
+
+Intermediate/CachedAssetRegistry_0.bin
+Saved/AutoScreenshot.png
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/GAM305_Team4.log
+Saved/Telemetry/Telemetry.json
